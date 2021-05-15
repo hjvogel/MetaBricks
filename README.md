@@ -3,7 +3,7 @@
 www.MetaBricks.org
 https://hjvogel.github.io/MetaBricks/
 
-Start Coding Shared LEGO-Like (Token) Bricks for Building, Plug and Play
+Start Coding Shared LEGO-Like (Token) Bricks for Building, Plug and Play!
 
 -> Tokenize & Earn Twice!
 
